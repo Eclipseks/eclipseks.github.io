@@ -78,7 +78,7 @@
 	}
 
 	.portfolio {
-		padding: 60px 0;
+		padding: 0px 0;
 	}
 
 	.portfolio-title {
@@ -86,7 +86,8 @@
 	}
 
 	.project-img {
-		margin-bottom: 30px;
+		margin-bottom: 0px;
+		padding: 0px;
 	}
 
 	.project + .project {

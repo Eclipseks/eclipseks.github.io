@@ -18,9 +18,10 @@ body {
   height: auto;
 }
 
+
 .bg .btn1 {
   position: absolute;
-  top: 80%;
+  top: 82%;
   left: 50%;
 
   transform: translate(-50%, -50%);
@@ -41,7 +42,7 @@ body {
 
 .container {
   max-width: 1230px;
-  padding: 0px;
+  padding: -10px;
   margin: 0 auto;
 }
 
@@ -76,7 +77,7 @@ body {
 /* Header */
 
 .header {
-  padding-top: ;
+  padding-top: 1px;
   background-color: black;
 }
 
@@ -196,7 +197,7 @@ body {
 }
 
 .portfolio-title {
-  margin-bottom: 70px;
+  margin-bottom: 0px;
   text-align: center;
 }
 
@@ -204,22 +205,6 @@ body {
   text-align: center;
 }
 
-.project + .project {
-  margin-top: 90px;
-}
-
-.project-img {
-  margin-bottom: 40px;
-}
-
-.project-title {
-  font-size: 20px;
-}
-
-.project-title a {
-  color: orange;
-  text-decoration: underline;
-}
 
 
 /* Footer */
