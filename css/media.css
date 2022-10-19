@@ -82,11 +82,11 @@
 	}
 
 	.portfolio-title {
-		margin-bottom: 50px;
+		margin-bottom: 0px;
 	}
 
 	.project-img {
-		margin-bottom: 30px;
+		margin-bottom: 10px;
 	}
 
 	.project + .project {

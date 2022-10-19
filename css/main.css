@@ -21,7 +21,7 @@ body {
 
 .bg .btn1 {
   position: absolute;
-  top: 82%;
+  top: 92%;
   left: 50%;
 
   transform: translate(-50%, -50%);
@@ -232,7 +232,10 @@ body {
   margin-bottom: 80px;
 }
 
+
+
 .contacts-social {
+  background-color: #252525;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -240,46 +243,46 @@ body {
   margin-bottom: 40px;
 }
 
-.contacts-footer {
-  color: orange;
-}
+/* .contacts-footer {
+  color: rgb(0, 0, 0);
+} */
 
 
-.contacts {
+/* .contacts {
   padding: 90px 0;
   text-align: center;
-}
+} */
 
-.contacts-title {
+/* .contacts-title {
   margin-bottom: 40px;
-}
+} */
 
-.contacts-content {
+/* .contacts-content {
   margin: 0 auto 40px;
   max-width: 480px;
   font-size: 18px;
-}
+} */
 
-.contacts-content p + p {
+/* .contacts-content p + p {
   margin-top: 1em;
-}
+} */
 
-.contacts-button {
+/* .contacts-button {
   margin-bottom: 80px;
-}
+} */
 
-.contacts-social {
+/* .contacts-social {
   display: flex;
   justify-content: center;
   align-items: center;
   column-gap: 60px;
   margin-bottom: 40px;
-}
+} */
 
-.contacts-footer {
+/* .contacts-footer {
   color: orange;
 }
 .color {
   color: orange;
   background-color:orange;
-}
+} */
