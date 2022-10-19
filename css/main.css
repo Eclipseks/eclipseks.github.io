@@ -41,8 +41,8 @@ body {
 }
 
 .container {
-  max-width: 1230px;
-  padding: -10px;
+  max-width: 100%;
+  padding: 0px;
   margin: 0 auto;
 }
 
@@ -192,7 +192,7 @@ body {
 /* Portfolio */
 
 .portfolio {
-  padding: 90px 0;
+  padding: 0px 0;
   background-color: black;
 }
 

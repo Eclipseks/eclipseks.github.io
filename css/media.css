@@ -86,12 +86,13 @@
 	}
 
 	.project-img {
-		margin-bottom: 0px;
-		padding: 0px;
+		margin-bottom: 30px;
 	}
 
 	.project + .project {
-		margin-top: 55px;
+		margin-top: 0px;
+		padding:0px;
+		border-radius: 0px;
 	}
 
 	.contacts {
